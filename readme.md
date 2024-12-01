@@ -66,7 +66,7 @@
 
 - **COPY  [PLAYLIST](#playlist)**
 
-- [Tsports EXE](https://www.videolan.org/vlc/download-windows.html) - **Download and run this small Python-based software to restream Tsports**
+- [Tsports EXE](https://github.com/FunctionError/Tsports/raw/refs/heads/main/Tsports.exe) - **Download and run this small Python-based software to restream Tsports**
 - [VLC for Windows](https://www.videolan.org/vlc/download-windows.html) - **Open VLC player**
 
 - **CTRL + V (or go to stream option)**
